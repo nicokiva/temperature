@@ -1,0 +1,25 @@
+{
+  "name": "temperature",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://nicokiva:g1i1t1h1u1b1@github.com/nicokiva/temperature.git"
+  },
+  "author": "Nicolás Kivatinetz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicokiva/temperature/issues"
+  },
+  "homepage": "https://github.com/nicokiva/temperature#readme",
+  "dependencies": {
+    "angular": "^1.6.9",
+    "dotenv": "^5.0.1",
+    "express": "^4.16.2"
+  }
+}
